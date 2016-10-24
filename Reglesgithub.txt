@@ -12,3 +12,5 @@ afin de tester ou valider le code, il se peut que un membre demande à un autre 
 c'est la personne qui a validé le code qui fait le mises à jours du code.
 
 les pull ne se font que sur le master
+
+J'aime les chocolatines à 10cts wallah.
