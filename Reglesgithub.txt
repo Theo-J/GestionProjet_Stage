@@ -1,10 +1,14 @@
-#Le but de ce document est donner quelques règle
+﻿#Le but de ce document est donner quelques règle
 
 #concernant les branches :
 
-toujours libéré le nom de la branche mergée
+toujours libérer le nom de la branche mergée
+les branches ne doivent pas dépasser 3 noeuds, 
+si 3 noeuds sont dépassés merger avec la branche master, libérer le nom et reprendre une nouvelle branche 
 
 #Concernant les pull & request request 
 
 afin de tester ou valider le code, il se peut que un membre demande à un autre de valider le code, 
 c'est la personne qui a validé le code qui fait le mises à jours du code.
+
+les pull ne se font que sur le master
